@@ -80,9 +80,15 @@
 
 ## Output Images
 
-* **Confusion Matrix:** `images/Confusion_Matrix.png`
-* **ROC Curve:** `images/ROC_Curve.png`
-* **Sigmoid Function:** `images/Sigmoid_Function.png`
+### Confusion Matrix  
+![Confusion Matrix](images/Confusion_Matrix.png)
+
+### ROC Curve  
+![ROC Curve](images/ROC_Curve.png)
+
+### Sigmoid Function  
+![Sigmoid Function](images/Sigmoid_Function.png)
+
 
 ---
 
@@ -94,5 +100,6 @@
 4. Review the saved images in the `images` folder for visual insights into model performance.
 
 ---
+
 
 
