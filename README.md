@@ -79,9 +79,9 @@
 ---
 
 ## Output Images
+Confusion Matrix
+![Confusion Matrix](images/Confusion_Matrix.png)
 
-### Confusion Matrix  
-![Confusion Matrix](images/confusion_Matrix.png)
 
 ### ROC Curve  
 ![ROC Curve](images/ROC_Curve.png)
@@ -100,6 +100,7 @@
 4. Review the saved images in the `images` folder for visual insights into model performance.
 
 ---
+
 
 
 
